@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tas Kagit Makas</string>
+    <string name="basla">BAŞLA</string>
+    <string name="you">You:</string>
+    <string name="me">AI:</string>
+    <string name="inputGoal">Hedef Seçin</string>
+    <string name="restart">Hadi Tekrar dene</string>
+    <string name="restart_win">Kazandın, Hadi Tekrar dene</string>
+
+</resources>
